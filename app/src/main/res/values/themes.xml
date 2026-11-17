@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.RinnaiCycle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:statusBarColor">#B3261E</item>
+        <item name="colorAccent">#B3261E</item>
+    </style>
+</resources>
